@@ -3,7 +3,7 @@
 
 >-- Gilbert Keith Chesterton
 
-Ever tried to send a secret message to someone without using the crypted channel? 
-You could use public communication to tell your secret.
-Even if someone finds your message, it’s easy to brush them off and that its paranoia and a bogus conspiracy theory.
-That's why we would try to use one of this method for squad communication.
+Have you ever tried to send a secret message to someone without using the encrypted channel? 
+You could conceivably use the public communication channels to tell your secret.
+Even if someone finds your message, it’s easy to just brush them off and tell them it's paranoia or some bogus conspiracy.
+That's why we're goingt to try and use this method for squad communication.
