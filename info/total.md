@@ -3,17 +3,17 @@
 
 >-- Gilbert Keith Chesterton
 
-Ever tried to send a secret message to someone without using the crypted channel? 
-You could use public communication to tell your secret.
-Even if someone finds your message, it’s easy to brush them off and that its paranoia and a bogus conspiracy theory.
-That's why we would try to use one of this method for squad communication.
+Have you ever tried to send a secret message to someone without using the encrypted channel? 
+You could conceivably use the public communication channels to tell your secret.
+Even if someone finds your message, it’s easy to just brush them off and tell them it's paranoia or some bogus conspiracy.
+That's why we're goingt to try and use this method for squad communication.
 
-You are given a chunk of text. Gather all capital letters in one word in the order that they appear in the text.
+You are given a chunk of text. Gather all of the capital letters in one word in the order that they appear in the text.
 
 For example: text = "**H**ow are you? **E**h, ok. **L**ow or **L**ower? **O**hhh.",
 if we collect all of the capital letters, we get the message "HELLO".
 
-**Input:** A text as a string. 
+**Input:** A chunk of text as a string. 
 
 **Output:** The secret message as a string or an empty string.
 
@@ -25,7 +25,7 @@ find_message("hello world!") == ""
 ```
 **How it is used:**
 
-It's useful
+This type of communication has been used to send secret messages, or even tell jokes. But the skills behind it show you how to find specific types of information or patterns hidden within larger chunks of data that would be difficult to find by hand.
 
 **Precondition:**
 ```python
