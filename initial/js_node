@@ -11,4 +11,5 @@ if (!global.is_checking){
     assert.equal(findMessage("How are you? Eh, ok. Low or Lower? Ohhh."), "HELLO", "hello");
     assert.equal(findMessage("hello world!"), "", "Nothing");
     assert.equal(findMessage("HELLO WORLD!!!"), "HELLOWORLD", "Capitals");
+    console.log("Code's finished? Earn rewards by clicking 'Check' to review your tests!");
 }
